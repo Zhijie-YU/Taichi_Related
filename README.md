@@ -1,2 +1,2 @@
 # Taichi_Related
-Some papers and codes related to taichi and numerical simulation.
+Some papers and codes related to taichi language and numerical simulation.
